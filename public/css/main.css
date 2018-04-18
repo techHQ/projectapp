@@ -1,0 +1,36 @@
+#project-lists {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+#comments-tag {
+    background-color: skyblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.jumbotron {
+    background-image: url('../image/indexbg.jpg');
+}
+
+#comment-heading {
+    background-color: skyblue;
+}
+#card-heading{
+    color:#000;
+    margin:4px;
+    font-style:italic;
+}
+.media{
+    background-color:lightgrey;
+    margin:10px;
+    padding:20px;
+    border-radius:20px;
+}
+.comment-count{
+    background-color:red;
+    color:#fff;
+    padding:4px;
+    border-radius:2px;
+}
